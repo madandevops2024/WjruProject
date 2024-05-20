@@ -1,9 +1,0 @@
-This is new fix.
-
-This is another fix.
-
-Without message..
-
-
-This code added by dev2
-Added by dev1
