@@ -3,3 +3,6 @@ dev1 is working on this task.
 
 Added some lines by dev2
 This is changed by dev1
+commit - 1
+commit - 2
+commit - 3
